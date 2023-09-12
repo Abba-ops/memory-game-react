@@ -4,18 +4,16 @@
 
 ![Magic Memory Game](https://i.ibb.co/TWx9vM2/magic-match-game.png)
 
-## Introduction 
-"Magic Memory Game" is a React.js web game designed for both learning and enjoyment. It aims to enhance memory skills through playful challenges.
+## Introduction
+"Magic Memory Game" is a React.js web game designed to improve memory skills.
 
 ## Getting Started
-To get the project up and running, follow these steps:
+1. Install dependencies:
 
-1. Install the dependencies by running the following command:
-    ```sh
-    npm i
-    ```
+   ```npm install```
 
-2. Start the development server using the following command:
-    ```sh
-    npm run dev
-    ```
+2. Start the game:
+
+   ```npm run dev```
+
+Enjoy enhancing your memory with the "Magic Memory Game"!
